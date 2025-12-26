@@ -85,4 +85,4 @@ This is sufficient for tracking releases without overcomplicating the versioning
 
 ## Questions or Issues?
 
-If you have questions about the versioning strategy or encounter version-related problems, feel free to open an issue on the [GitHub repository](https://github.com/dileepadev/community-standards/issues).
+If you have questions about the versioning strategy or encounter version-related problems, feel free to open an issue on the [GitHub repository](https://github.com/dileepadev/hungryme-desktop/issues).
