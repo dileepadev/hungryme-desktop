@@ -30,7 +30,7 @@ Initial release date - November 17, 2019
 > This repository is a clean re-upload to my new GitHub account. No new features or functionality have been added. Minor compatibility fixes may have been applied to ensure the project runs correctly in the current environment. Please note that the original commit history from the previous account is not preserved. This update is primarily for migration purposes.
 >
 > **Initial release date:** November 17, 2019  
-> **Migration date:** December 25, 2025  
+> **Migration date:** December 26, 2025  
 
 ## 💡 Deployment
 
@@ -113,6 +113,9 @@ Thanks to everyone who supported
 Dileepa Bandara  
 [@dileepadev](https://github.com/dileepadev)  
 <https://dileepa.dev>
+
+> [!NOTE]
+> This repository may contain references to my former GitHub username (`dileepabandara`) and domain (`dileepabandara.dev`), which I no longer use. These identifiers may now belong to other parties. All current development and maintenance are conducted under my new GitHub account [dileepadev](https://github.com/dileepadev) and domain [dileepa.dev](https://dileepa.dev).
 
 ## 💬 Contact
 
