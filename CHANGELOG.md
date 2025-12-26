@@ -20,4 +20,4 @@ Changes are organized into the following categories:
 <!-- v1.0.0 -->
 <!-- v0.0.1 -->
 
-[Unreleased]: https://github.com/dileepadev/community-standards/branches
+[Unreleased]: https://github.com/dileepadev/hungryme-desktop/branches
